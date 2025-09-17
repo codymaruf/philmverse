@@ -81,7 +81,7 @@ export default function RoadmapPage() {
           transition={{ delay: 0.2, duration: 0.8 }}
           className="text-lg text-gray-300 max-w-3xl mx-auto mb-16"
         >
-          PhilmVerse isn't just growing — it's evolving into a complete creative ecosystem. Every conversation in our community, every piece of feedback, and every magical moment you share shapes what we build next. We're not developing features; we're crafting the future of creative expression through AI conversation.
+          PhilmVerse isn&apos;t just growing — it&apos;s evolving into a complete creative ecosystem. Every conversation in our community, every piece of feedback, and every magical moment you share shapes what we build next. We&apos;re not developing features; we&apos;re crafting the future of creative expression through AI conversation.
         </motion.p>
 
         {sections.map((section, sectionIndex) => (

@@ -55,10 +55,11 @@ export default function AboutPage() {
             Every filmmaker knows the brutal truth: you have incredible stories to tell, but pre-production feels like navigating a labyrinth blindfolded. Weeks vanish into research, planning, and coordinating — stealing precious time from actual creativity.
           </p>
           <p>
-            PhilmVerse was born from this frustration. We believe magical storytelling shouldn't be buried under administrative chaos. Our conversational AI doesn't replace your creativity; it amplifies it exponentially. We handle the tedious groundwork so you can focus on what makes cinema extraordinary: authentic human moments and stories only you can tell.
+            PhilmVerse was born from this frustration. We believe magical storytelling shouldn&apos;t be buried under administrative chaos. Our conversational AI doesn&apos;t replace your creativity; it amplifies it exponentially. We handle the tedious groundwork so you can focus on what makes cinema extraordinary: authentic human moments and stories only you can tell.
           </p>
           <p>
-            This isn't about robots making films. It's about giving storytellers superpowers through intelligent conversation, transforming the creative process into pure magic.
+            This isn&apos;t about robots making films. It&apos;s about giving storytellers superpowers through intelligent conversation, transforming the creative process into pure magic.
+
           </p>
         </motion.div>
 

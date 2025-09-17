@@ -38,7 +38,8 @@ export default function LoginPage() {
           Welcome Back to PhilmVerse
         </h1>
         <p className="mt-2 text-gray-400 text-center">
-          Your creative universe awaits — let's make more magic together.
+          Your creative universe awaits — let&apos;s make more magic together.
+
         </p>
         <p className="mt-4 text-gray-500 text-sm text-center">
           Step back into your personal creative space where all your scripts, conversations, and film projects live.
