@@ -11,21 +11,21 @@ const features = [
     title: "Chat Your Way to Perfect Scripts",
     subtitle: "Conversational Script Creation",
     description:
-      "Simply describe your story idea and video length through natural conversation. Our AI understands filmmakers' language and transforms your vision into structured, shootable scripts instantly. It's like having a brilliant writing partner available 24/7.",
+         "Simply describe your story idea and video length through natural conversation. Our AI understands filmmakers&apos; language and transforms your vision into structured, shootable scripts instantly. It&apos;s like having a brilliant writing partner available 24/7.",
   },
   {
     icon: <Workflow className="w-10 h-10 text-green-400" />,
     title: "One Universe, Zero Chaos",
     subtitle: "Instant Creative Workflow",
     description:
-      "No more juggling dozens of apps or losing brilliant ideas in scattered notes. PhilmVerse keeps all your projects, scripts, and creative conversations in one intuitive space. Your creative energy flows freely from concept to completion.",
+         "No more juggling dozens of apps or losing brilliant ideas in scattered notes. PhilmVerse keeps all your projects, scripts, and creative conversations in one intuitive space. Your creative energy flows freely from concept to completion.",
   },
   {
     icon: <MessageSquare className="w-10 h-10 text-green-400" />,
     title: "AI That Speaks Your Language",
     subtitle: "Your Voice, Amplified",
     description:
-      "PhilmVerse learns your storytelling style through every chat. Whether you're crafting YouTube content or feature films, our AI captures your unique voice and creative vision, making every script feel personally crafted.",
+         "PhilmVerse learns your storytelling style through every chat. Whether you&apos;re crafting YouTube content or feature films, our AI captures your unique voice and creative vision, making every script feel personally crafted.",
   },
 ];
 
@@ -57,7 +57,7 @@ export default function Features() {
           transition={{ delay: 0.2, duration: 0.8 }}
           className="text-gray-400 max-w-2xl mx-auto mb-16"
         >
-          PhilmVerse blends cinematic creativity with advanced AI — making
+           PhilmVerse blends cinematic creativity with advanced AI &mdash; making
           pre-production faster, smoother, and inspired.
         </motion.p>
 

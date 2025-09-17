@@ -40,7 +40,7 @@ export default function Hero() {
           transition={{ delay: 0.2, duration: 0.8 }}
           className="text-sm uppercase tracking-widest text-green-400 drop-shadow-md"
         >
-          Less Planning, Faster Films, More Creating — Pure Magic
+          Less Planning, Faster Films, More Creating {'&mdash;'} Pure Magic
         </motion.p>
 
         <motion.h1
@@ -68,12 +68,7 @@ export default function Hero() {
           transition={{ delay: 0.8, duration: 0.8 }}
           className="mt-6 text-base leading-relaxed text-gray-300"
         >
-          Stop drowning in pre-production chaos. PhilmVerse transforms your
-          creative vision into complete production-ready plans through
-          intelligent conversation. From scripts to shot lists, story structure
-          to scheduling — chat with our AI and watch your entire pre-production
-          workflow emerge like magic. Less time planning means more time
-          creating the films you love.
+          Stop drowning in pre-production chaos. PhilmVerse transforms your creative vision into complete production-ready plans through intelligent conversation. From scripts to shot lists, story structure to scheduling {'&mdash;'} chat with our AI and watch your entire pre-production workflow emerge like magic. Less time planning means more time creating the films you love.
         </motion.p>
 
         {/* CTA Buttons */}

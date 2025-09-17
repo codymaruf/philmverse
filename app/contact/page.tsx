@@ -55,7 +55,7 @@ export default function ContactPage() {
         transition={{ duration: 1 }}
         className="text-4xl md:text-6xl font-extrabold text-center mb-6 bg-gradient-to-b from-green-300 via-green-400 to-green-500 bg-clip-text text-transparent"
       >
-        Let's Create Magic Together
+  Let&apos;s Create Magic Together
       </motion.h1>
 
       <motion.p
@@ -64,7 +64,7 @@ export default function ContactPage() {
         transition={{ duration: 1, delay: 0.2 }}
         className="text-center text-gray-300 max-w-3xl mb-16 text-lg md:text-xl"
       >
-        Your voice shapes the future of PhilmVerse. Share ideas, get support, or showcase your creations — everything happens in this cinematic universe of creativity.
+  Your voice shapes the future of PhilmVerse. Share ideas, get support, or showcase your creations &mdash; everything happens in this cinematic universe of creativity.
       </motion.p>
 
       {/* Contact & Social Icons */}

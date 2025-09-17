@@ -7,27 +7,27 @@ const protections = [
   {
     icon: <FileText className="w-12 h-12 text-green-400" />,
     title: "100% Script Ownership",
-    description: "Every word you create stays yours forever. Your stories are always your property."
+  description: "Every word you create stays yours forever. Your stories are always your property."
   },
   {
     icon: <Key className="w-12 h-12 text-green-400" />,
     title: "Minimal Data Collection",
-    description: "We only collect what’s needed: email and usage patterns to improve your experience."
+  description: "We only collect what&apos;s needed: email and usage patterns to improve your experience."
   },
   {
     icon: <ShieldCheck className="w-12 h-12 text-green-400" />,
     title: "Zero Data Monetization",
-    description: "We earn through subscriptions, never selling or sharing your creative work."
+  description: "We earn through subscriptions, never selling or sharing your creative work."
   },
   {
     icon: <Lock className="w-12 h-12 text-green-400" />,
     title: "Bank-Level Security",
-    description: "Military-grade encryption ensures your creative universe is safe from prying eyes."
+  description: "Military-grade encryption ensures your creative universe is safe from prying eyes."
   },
   {
     icon: <Trash className="w-12 h-12 text-green-400" />,
     title: "Easy Exit",
-    description: "Delete your PhilmVerse account anytime, and we remove everything within 30 days."
+  description: "Delete your PhilmVerse account anytime, and we remove everything within 30 days."
   }
 ];
 

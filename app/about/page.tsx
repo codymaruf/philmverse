@@ -41,7 +41,7 @@ export default function AboutPage() {
           transition={{ delay: 0.2, duration: 0.8 }}
           className="text-gray-300 text-lg md:text-xl mb-8"
         >
-          We've lived the pre-production nightmare — and we've solved it.
+          We&apos;ve lived the pre-production nightmare &mdash; and we&apos;ve solved it.
         </motion.p>
 
         {/* Explanation */}

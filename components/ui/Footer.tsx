@@ -27,19 +27,19 @@ export default function Footer() {
 
         {/* Footer CTA */}
         <h2 className="text-3xl md:text-4xl font-bold mb-4">
-          Ready to <span className="text-green-400">Experience the Magic?</span>
+            Ready to <span className="text-green-400">Experience the Magic?</span>
         </h2>
         <p className="text-gray-400 max-w-xl mx-auto mb-8">
-          Join thousands of creators already living in the PhilmVerse. Your first script is completely free and takes just minutes to create. No credit cards, no commitments — just pure creative magic waiting for your vision. What story will you bring to life today?
+            Join thousands of creators already living in the PhilmVerse. Your first script is completely free and takes just minutes to create. No credit cards, no commitments — just pure creative magic waiting for your vision. What story will you bring to life today?
         </p>
 
         <Button className="px-8 py-4 text-lg font-semibold rounded-xl bg-green-500 hover:bg-green-600 shadow-lg shadow-green-500/30 mb-12">
-          Enter PhilmVerse Now
+            Enter PhilmVerse Now
         </Button>
 
         {/* Footer links and social */}
         <div className="flex flex-col md:flex-row justify-center items-center gap-6 text-gray-400 text-sm">
-          <a href="/privacy-policy" className="hover:text-green-400 transition-colors">Privacy Policy</a>
+            <a href="/privacy" className="hover:text-green-400 transition-colors">Privacy Policy</a>
           <a href="/roadmap" className="hover:text-green-400 transition-colors">Roadmap</a>
           <a href="/contact" className="hover:text-green-400 transition-colors">Contact</a>
           <div className="flex gap-4 mt-2 md:mt-0">
@@ -54,9 +54,9 @@ export default function Footer() {
         </div>
 
         {/* Footer tagline */}
-        <p className="mt-12 text-gray-600 text-sm">
-          &copy; {new Date().getFullYear()} PhilmVerse. Less Planning, Faster Films, More Creating — Pure Magic.
-        </p>
+          <p className="mt-12 text-gray-600 text-sm">
+            &copy; {new Date().getFullYear()} PhilmVerse. Less Planning, Faster Films, More Creating &mdash; Pure Magic.
+          </p>
       </div>
     </footer>
   );

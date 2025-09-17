@@ -43,7 +43,7 @@ export default function FutureFeatures() {
           transition={{ delay: 0.2, duration: 0.8 }}
           className="text-gray-400 max-w-2xl mx-auto mb-16"
         >
-          PhilmVerse is evolving into your complete creative universe. Soon you'll generate visual storyboards through conversation, create shot lists that save shooting days, and access budgeting tools that keep productions on track. This is filmmaking reimagined for the AI age.
+          PhilmVerse is evolving into your complete creative universe. Soon you&apos;ll generate visual storyboards through conversation, create shot lists that save shooting days, and access budgeting tools that keep productions on track. This is filmmaking reimagined for the AI age.
         </motion.p>
 
         {/* Features Grid */}
