@@ -1,0 +1,22 @@
+/app
+  /section
+    /home
+    /login
+    /signup
+    /dashboard
+    /about
+    /contact
+    /privacy
+    /roadmap
+  /globals.css
+  /layout.tsx
+  /page.tsx
+/components
+  /ui
+    -> shadcn/ui components
+  Navbar.tsx
+  Footer.tsx
+  Joindiscord.tsx  (button)
+  Start.tsx  (button)
+/lib
+  utils.ts

@@ -1,0 +1,27 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+/* Neon headline effect */
+.neon-text {
+  text-shadow:
+    0 0 5px #00fff7,
+    0 0 10px #00fff7,
+    0 0 20px #00fff7,
+    0 0 40px #00fff7;
+}
+
+/* Glass button style (if not already in Start/Joindiscord) */
+.glass-btn {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  color: white;
+  padding: 0.6rem 1.2rem;
+  border-radius: 0.5rem;
+  transition: all 0.3s ease;
+}
+.glass-btn:hover {
+  background: rgba(0, 255, 247, 0.2);
+  color: #00fff7;
+  transform: translateY(-2px);
+}
