@@ -80,14 +80,14 @@ export default function Hero() {
         >
           <Button className="px-6 py-3 text-lg font-semibold rounded-xl bg-green-500 hover:bg-green-600 text-white shadow-lg shadow-green-500/30 flex items-center gap-2">
             <Clapperboard className="w-5 h-5" />
-            Create My First Script (Free)
+            <a href="/chat">Create My First Script</a>
           </Button>
           <Button
             variant="outline"
             className="px-6 py-3 text-lg font-semibold rounded-xl border-green-500 text-green-400 hover:bg-green-500/10 flex items-center gap-2"
           >
             <Clapperboard className="w-5 h-5" />
-            Join Our Creative Community
+            <a href="/enter">Join Our Creative Community</a>
           </Button>
         </motion.div>
       </div>
