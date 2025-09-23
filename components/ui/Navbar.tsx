@@ -41,7 +41,7 @@ export default function Navbar() {
           </Link>
 
           {/* CTA Button */}
-          <Link href="/signup">
+          <Link href="/enter">
             <motion.button
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}

@@ -87,7 +87,7 @@ export default function ContactPage() {
       </div>
 
       {/* Quick Contact Form */}
-      <motion.form
+      {/* <motion.form
         initial={{ opacity: 0, y: 20 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 1, delay: 0.6 }}
@@ -117,7 +117,7 @@ export default function ContactPage() {
         <Button className="px-6 py-3 font-semibold rounded-xl bg-green-500 hover:bg-green-600 shadow-lg shadow-green-500/30 text-lg">
           Send Your Message
         </Button>
-      </motion.form>
+      </motion.form> */}
     </section>
   );
 }

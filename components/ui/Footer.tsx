@@ -33,9 +33,12 @@ export default function Footer() {
             Join thousands of creators already living in the PhilmVerse. Your first script is completely free and takes just minutes to create. No credit cards, no commitments — just pure creative magic waiting for your vision. What story will you bring to life today?
         </p>
 
-        <Button className="px-8 py-4 text-lg font-semibold rounded-xl bg-green-500 hover:bg-green-600 shadow-lg shadow-green-500/30 mb-12">
+        <a href="/enter">
+          <Button className="px-8 py-4 text-lg font-semibold rounded-xl bg-green-500 hover:bg-green-600 shadow-lg shadow-green-500/30 mb-12">
             Enter PhilmVerse Now
-        </Button>
+          </Button>
+        </a>
+        
 
         {/* Footer links and social */}
         <div className="flex flex-col md:flex-row justify-center items-center gap-6 text-gray-400 text-sm">
